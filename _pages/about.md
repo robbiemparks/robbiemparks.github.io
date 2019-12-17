@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an environmental epidemiologist. I am primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes. I am also interested in developing new statistical methods relevant to these interests.
+I am an environmental epidemiologist. I am primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes. I am also interested in developing new statistical methods relevant to these interests. 
 
-While at the Earth Institute and the IRI, he will contribute to <a href='https://worldprojects.columbia.edu/content/actoday'>ACToday </a>, a Columbia World Project. He will focus on modelling how climate variability affects undernutrition in vulnerable groups. 
-
-Robbie recently earned his Ph.D. from Imperial College London, where he was supervised by Majid Ezzati and Ralf Toumi. He also holds an undergraduate degree in physics from the University of Oxford. 
+In 2019, Robbie earned his Ph.D from Imperial College London, where he was supervised by Majid Ezzati and Ralf Toumi. He also holds an undergraduate degree in physics from the University of Oxford. 
 
 In summer 2017, during his studies, Robbie interned at the World Meteorological Organisation, a constituent part of the United Nations, in Geneva, Switzerland. While interning, he became a founding member of the <a href='http://ghhin.org/'>Global Heat Health Information Network </a>. 
 
