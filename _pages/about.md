@@ -16,4 +16,6 @@ In 2019, I earned my Ph.D from Imperial College London, where I was supervised b
 
 In summer 2017, during my studies, I interned at the World Meteorological Organisation, a constituent part of the United Nations, in Geneva, Switzerland. While interning, I became a founding member of the <a href='http://ghhin.org/'>Global Heat Health Information Network</a>.
 
-I very much enjoy communicating my work to the public, and have been involved in several recent outreach projects, including <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on'>GREEN SPACE</a>. I have also received seed funding as PI from the highly competitive <a href='https://www.earth.columbia.edu/sitefiles/file/Research/Earth_Frontiers_Call_for_Proposals_2019.pdf'>Earth Frontiers</a> 2019 call, where I submitted a grant competing with world-
+I very much enjoy communicating my work to the public, and have been involved in several recent outreach projects, including <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on'>GREEN SPACE</a>. 
+
+I have also just received seed funding as PI from the highly competitive <a href='https://www.earth.columbia.edu/sitefiles/file/Research/Earth_Frontiers_Call_for_Proposals_2019.pdf'>Earth Frontiers</a> 2019 call, where I submitted a grant competing with world-renowned scientists for projects covering 2020-2021.
