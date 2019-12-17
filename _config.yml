@@ -84,11 +84,11 @@ author:
   avatar           : "Robbie Parks 2019 small.jpg"
   bio              : "Earth Institute post-doctoral research fellow"
   location         : "New York City"
-  employer         :
+  employer         : "Columbia University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=5aU5eEAAAAAJ&gmla=AJsN-F4gpps7k0L-LIQ_wGfCaPTu3aRX1eKTm8wOa6RGk5IrwFDoFOfo7WpcaBWWuJ9MFJNJR2UV0LZ2-Ck6SyH8NvZE2u2sTopjYAT9DNnshtWj5NKwu3EFRZdph-sobXhfuEP-tye8"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "robbie.parks@columbia.edu"
+  researchgate     : "https://www.researchgate.net/profile/Robbie_Parks"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,10 +102,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rmiparks/"
   orcid            : "https://orcid.org/0000-0002-7916-1717"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/rmiparks"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
