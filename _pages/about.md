@@ -18,6 +18,6 @@ In summer 2017, during my studies, I interned at the <a href='https://public.wmo
 
 I very much enjoy communicating my work to the public, and have been involved in several recent outreach projects, including <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on'>GREEN SPACE</a>. 
 
-I have also just received seed funding as PI from the highly competitive <a href='https://www.earth.columbia.edu/sitefiles/file/Research/Earth_Frontiers_Call_for_Proposals_2019.pdf'>Earth Frontiers</a> 2019 call, where I submitted a grant competing with world-renowned scientists for projects covering 2020-2021.
+I have also just received seed funding as PI from the highly competitive <a href='https://www.earth.columbia.edu/sitefiles/file/Research/Earth_Frontiers_Call_for_Proposals_2019.pdf'>Earth Frontiers</a> 2019 call, where I submitted a grant application competing with world-renowned scientists for projects covering 2020-2021.
 
 Oh, and I'm a musician, with the band <a href='https://www.glitchesmusic.co.uk/'>Glitches</a> and as a <a href='https://soundcloud.com/rmiparks'>sound artist</a>.
