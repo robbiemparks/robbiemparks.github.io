@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an environmental epidemiologist. I am primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes. I am also interested in developing new statistical methods relevant to these interests. 
+I am an environmental epidemiologist. I am a <a href='https://www.earth.columbia.edu/articles/view/55'>post-doctoral research fellow</a> at the <a href='https://www.earth.columbia.edu/'>Earth Institute<>, Columbia University. I am primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes, and how these impacts may be different in sub-groups of a population. I am also interested in developing new statistical methods relevant to these interests. 
 
 In 2019, I earned my Ph.D from Imperial College London, where I was supervised by <a href='http://globalenvhealth.org/'>Majid Ezzati</a> and <a href='https://www.imperial.ac.uk/people/r.toumi'>Ralf Toumi</a>. I also hold an undergraduate degree in physics from the University of Oxford. 
 
 In summer 2017, during my studies, I interned at the World Meteorological Organisation, a constituent part of the United Nations, in Geneva, Switzerland. While interning, I became a founding member of the <a href='http://ghhin.org/'>Global Heat Health Information Network</a>.
 
-I very much enjoys communicating his work to the public, and has been involved in several recent outreach projects, including <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on'>GREEN SPACE</a>. I have also received seed funding as PI from the highly competitive inaugral Earth Frontiers 
+I very much enjoys communicating his work to the public, and has been involved in several recent outreach projects, including <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on'>GREEN SPACE</a>. I have also received seed funding as PI from the highly competitive <>Earth Frontiers</a> 2019 call, where I submitted grants competing with world-
