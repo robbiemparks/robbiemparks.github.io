@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Robbie Parks is an environmental epidemiologist. He is primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes. 
+I am an environmental epidemiologist. I am primarily interested in understanding the impact that climate, weather, and air pollution can have on mortality, nutrition and disease outcomes. I am also interested in developing new statistical methods relevant to these interests.
 
 While at the Earth Institute and the IRI, he will contribute to <a href='https://worldprojects.columbia.edu/content/actoday'>ACToday </a>, a Columbia World Project. He will focus on modelling how climate variability affects undernutrition in vulnerable groups. 
 
