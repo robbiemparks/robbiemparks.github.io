@@ -10,7 +10,7 @@ redirect_from:
 
 I am an environmental epidemiologist. I am currently a <a href='https://www.earth.columbia.edu/articles/view/55' target="_blank">post-doctoral research fellow</a> at the <a href='https://www.earth.columbia.edu/' target="_blank">Earth Institute</a>, Columbia University. 
 
-I am primarily interested in understanding the impact that climate, weather, and air pollution has on mortality, nutrition and disease outcomes, and how these impacts may be different in sub-groups of a population. I am also interested in developing new statistical methods , particularly in Bayesian statistics, relevant to these concerns. 
+I am primarily interested in understanding the impact that climate, weather, and air pollution has on mortality, nutrition and disease outcomes, and how these impacts may be different in sub-groups of a population. I am also interested in developing new (particularly Bayesian) statistical methods, relevant to these concerns. 
 
 In 2019, I earned my Ph.D from Imperial College London, where I was supervised by <a href='http://globalenvhealth.org/' target="_blank">Majid Ezzati</a> and <a href='https://www.imperial.ac.uk/people/r.toumi' target="_blank">Ralf Toumi</a>. I also hold an undergraduate degree in physics from the University of Oxford. 
 
