@@ -18,5 +18,3 @@ We used vital registration and population data with information on sex, age, cau
 According to our estimates, recent reductions in particulate matter pollution in the USA have resulted in public health benefits. Nonetheless, we estimate that current concentrations are associated with mortality impacts and loss of life expectancy, with larger impacts in counties with lower income and higher poverty rate.
 
 [Download paper here](http://dx.doi.org/10.1371/journal.pmed.1002856)
-
-#Recommended citation: Bennett J, Tamura-Wicks H, Parks R, Burnett RT, Pope III CA, Bechle MJ, Marshall JD, Goodarz D, Ezzati M, 2019, Particulate matter air pollution and national and county life expectancy loss in the USA: a spatiotemporal analysis, <i>PLoS Medicine</i>, Vol: 16, ISSN: 1549-1277
