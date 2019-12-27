@@ -8,8 +8,9 @@ venue: 'PLOS Medicine'
 paperurl: 'http://dx.doi.org/10.1371/journal.pmed.1002856'
 citation: 'Bennett JE, Tamura-Wicks H, Parks RM, Burnett RT, Pope CA III, Bechle MJ, et al. (2019) Particulate matter air pollution and national and county life expectancy loss in the USA: A spatiotemporal analysis. PLoS Med 16(7): e1002856. https://doi.org/10.1371/journal.pmed.1002856'
 
-
 ---
+[Download paper here](http://dx.doi.org/10.1371/journal.pmed.1002856)
+
 <b>Background</b>
 Exposure to fine particulate matter pollution (PM2.5) is hazardous to health. Our aim was to directly estimate the health and longevity impacts of current PM2.5 concentrations and the benefits of reductions from 1999 to 2015, nationally and at county level, for the entire contemporary population of the contiguous United States.
 
@@ -18,5 +19,3 @@ We used vital registration and population data with information on sex, age, cau
 
 <b>Conclusions</b>
 According to our estimates, recent reductions in particulate matter pollution in the USA have resulted in public health benefits. Nonetheless, we estimate that current concentrations are associated with mortality impacts and loss of life expectancy, with larger impacts in counties with lower income and higher poverty rate.
-
-[Download paper here](http://dx.doi.org/10.1371/journal.pmed.1002856)
