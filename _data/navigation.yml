@@ -5,11 +5,20 @@ main:
     
   - title: "Projects"
     url: /projects/
+    
+#   - title: "Awards and honors"
+#     url: /awardsandhonours/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
+    url: /teaching/  
+    
+  - title: "Professional development"
+    url: /professionaldevelopment/ 
+    
+  - title: "Outreach"
     url: /teaching/    
     
   - title: "CV"
