@@ -6,7 +6,7 @@ excerpt: 'Exposure to fine particulate matter pollution (PM2.5) is hazardous to 
 date: 2019-07-01
 venue: 'PLOS Medicine'
 paperurl: 'http://dx.doi.org/10.1371/journal.pmed.1002856'
-citation: 'Bennett JE, Tamura-Wicks H, Parks RM, Burnett RT, Pope CA III, Bechle MJ, et al. (2019) Particulate matter air pollution and national and county life expectancy loss in the USA: A spatiotemporal analysis. PLoS Med 16(7): e1002856. https://doi.org/10.1371/journal.pmed.1002856'
+citation: 'Bennett JE, Tamura-Wicks H, Parks RM, Burnett RT, Pope CA III, Bechle MJ, et al. (2019) Particulate matter air pollution and national and county life expectancy loss in the USA: A spatiotemporal analysis. PLoS Med 16(7): e1002856.'
 
 ---
 [Download paper here](http://dx.doi.org/10.1371/journal.pmed.1002856)
