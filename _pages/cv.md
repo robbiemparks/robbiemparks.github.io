@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Posts by Collection"
+layout: cv
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
