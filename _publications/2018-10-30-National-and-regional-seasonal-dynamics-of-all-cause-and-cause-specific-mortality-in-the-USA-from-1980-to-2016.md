@@ -1,7 +1,7 @@
 ---
 title: "National and regional seasonal dynamics of all-cause and cause-specific mortality in the USA from 1980 to 2016"
 collection: publications
-permalink: /publication/2018-10-30-National-and-regional-seasonal-dynamics-of-all-cause-and-cause-specific-mortality-in-the-USA-from-1980-to-2016.md
+permalink: /publication/2018-10-30-National-and-regional-seasonal-dynamics-of-all-cause-and-cause-specific-mortality-in-the-USA-from-1980-to-2016
 excerpt: 'In temperate climates, winter deaths exceed summer ones. However, there is limited information on the timing and the relative magnitudes of maximum and minimum mortality, by local climate, age group, sex and medical cause of death. We used geo-coded mortality data and wavelets to analyse the seasonality of mortality by age group and sex from 1980 to 2016 in the USA and its subnational climatic regions. Death rates in men and women ≥ 45 years peaked in December to February and were lowest in June to August, driven by cardiorespiratory diseases and injuries. In these ages, percent difference in death rates between peak and minimum months did not vary across climate regions, nor changed from 1980 to 2016. Under five years, seasonality of all-cause mortality largely disappeared after the 1990s. In adolescents and young adults, especially in males, death rates peaked in June/July and were lowest in December/January, driven by injury deaths.'
 date: 2018-10-30
 venue: 'eLife'
