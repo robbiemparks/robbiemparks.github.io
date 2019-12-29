@@ -5,11 +5,11 @@ permalink: /publication/2018-10-30-National-and-regional-seasonal-dynamics-of-al
 excerpt: 'In temperate climates, winter deaths exceed summer ones. However, there is limited information on the timing and the relative magnitudes of maximum and minimum mortality, by local climate, age group, sex and medical cause of death. We used geo-coded mortality data and wavelets to analyse the seasonality of mortality by age group and sex from 1980 to 2016 in the USA and its subnational climatic regions. Death rates in men and women ≥ 45 years peaked in December to February and were lowest in June to August, driven by cardiorespiratory diseases and injuries. In these ages, percent difference in death rates between peak and minimum months did not vary across climate regions, nor changed from 1980 to 2016. Under five years, seasonality of all-cause mortality largely disappeared after the 1990s. In adolescents and young adults, especially in males, death rates peaked in June/July and were lowest in December/January, driven by injury deaths.'
 date: 2018-10-30
 venue: 'eLife'
-paperurl: 'https://doi.org/10.7554/eLife.35500.002'
+paperurl: 'https://doi.org/10.7554/eLife.35500'
 citation: 'Parks RM, Bennett J, Foreman K, Toumi R, Ezzati M, 2018, National and regional seasonal dynamics of all-cause and cause-specific mortality in the USA from 1980 to 2016, eLife, Vol: 7, ISSN: 2050-084X'
 
 ---
-[Download paper here](https://doi.org/10.7554/eLife.35500.002)
+[Download paper here](https://doi.org/10.7554/eLife.35500)
 
 In the USA, more deaths happen in the winter than the summer. But when deaths occur varies greatly by sex, age, cause of death, and possibly region. Seasonal differences in death rates can change over time due to changes in factors that cause disease or affect treatment.
 
