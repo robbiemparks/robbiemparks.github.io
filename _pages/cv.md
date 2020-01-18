@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Coming soon!
+Download <a href="https://robbiemparks.github.io/files/CV Robbie Parks 2020.pdf">CV</a>
