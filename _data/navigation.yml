@@ -21,8 +21,8 @@ main:
 #   - title: "Outreach"
 #     url: /teaching/    
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /cv/
     
 #   - title: "Music"
 #     url: /music/
