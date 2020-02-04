@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <b>Green New Deal</b>
+
 <a href='https://bit.ly/2uiY1Qz', target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, Bernie Sanders, 2020</b>
 
 <b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine, 2020</b>
