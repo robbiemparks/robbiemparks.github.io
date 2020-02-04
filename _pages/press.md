@@ -9,10 +9,10 @@ author_profile: true
 
 <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
 <a href='https://time.com/5764673/injuries-deaths-climate-change/' target="_blank">Injuries and Deaths Could Rise with Climate Change in the U.S., a New Study Finds</a>, <b>TIME</b>, January 2020<br>
-<a href='XX' target="_blank">Climate-Change Related Injuries Will Kill Thousands in the US</a>, <b>New Scientist</b>, January 2020<br>
-<a href='XX' target="_blank">Climate Change Could Lead to More Injuries and Deaths</a>, <b>The Verge</b>, January 2020<br>
-<a href='XX' target="_blank">Climate change could kill thousands of Americans each year</a>, <b>Daily Mail</b>, January 2020<br>
-<a href='XX' target="_blank">Rising temps could cause as many as 2,100 fatal injuries per year</a>, <b>Breitbart</b>, January 2020<br>
+<a href='https://www.newscientist.com/article/2229627-climate-change-related-injuries-will-kill-thousands-in-the-us/' target="_blank">Climate-Change Related Injuries Will Kill Thousands in the US</a>, <b>New Scientist</b>, January 2020<br>
+<a href='https://www.theverge.com/2020/1/13/21063690/climate-change-injuries-deaths-weather-violence-drowning-accidents' target="_blank">Climate Change Could Lead to More Injuries and Deaths</a>, <b>The Verge</b>, January 2020<br>
+<a href='https://www.dailymail.co.uk/health/article-7882007/Global-temperatures-rising-just-3-degrees-lead-2-100-Americans-dying-year.html' target="_blank">Climate change could kill thousands of Americans each year</a>, <b>Daily Mail</b>, January 2020<br>
+<a href='https://www.breitbart.com/news/rising-temps-could-cause-as-many-as-2100-fatal-injuries-per-year/' target="_blank">Rising temps could cause as many as 2,100 fatal injuries per year</a>, <b>Breitbart</b>, January 2020<br>
 <a href='XX' target="_blank">The Heat is On: rise in violence as planet warms</a>, <b>Daily Star</b>, January 2020<br>
 <a href='XX' target="_blank">How climate change could change the way we die</a>, <b>Anthropocene</b>, January 2020<br>
 <a href='XX' target="_blank">Hotter temperatures will mean more deaths from injury</a>, <b>The Conversation</b>, January 2020<br>
