@@ -5,10 +5,6 @@ permalink: /press/
 author_profile: true
 ---
 
-<b>Green New Deal</b>
-
-<a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>, 2020
-
 <b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine, 2020</b>
 
 <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
@@ -27,3 +23,7 @@ The Heat is On: rise in violence as planet warms, <b>Daily Star</b>, January 202
 Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India and many other countries.
 
 Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira,Katherine Hayhoe, Marshall Burke and hundreds of others.
+
+<b>Green New Deal</b>
+
+<a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>, 2020
