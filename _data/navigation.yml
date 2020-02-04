@@ -19,13 +19,13 @@ main:
 #     url: /professionaldevelopment/ 
     
 #   - title: "Outreach"
-#     url: /teaching/    
-    
+#     url: /teaching/  
+
+  - title: "Press coverage"
+    url: /press/   
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Press coverage"
-    url: /press/
     
 #   - title: "Music"
 #     url: /music/
