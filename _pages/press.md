@@ -13,12 +13,12 @@ author_profile: true
 <a href='https://www.theverge.com/2020/1/13/21063690/climate-change-injuries-deaths-weather-violence-drowning-accidents' target="_blank">Climate Change Could Lead to More Injuries and Deaths</a>, <b>The Verge</b>, January 2020<br>
 <a href='https://www.dailymail.co.uk/health/article-7882007/Global-temperatures-rising-just-3-degrees-lead-2-100-Americans-dying-year.html' target="_blank">Climate change could kill thousands of Americans each year</a>, <b>Daily Mail</b>, January 2020<br>
 <a href='https://www.breitbart.com/news/rising-temps-could-cause-as-many-as-2100-fatal-injuries-per-year/' target="_blank">Rising temps could cause as many as 2,100 fatal injuries per year</a>, <b>Breitbart</b>, January 2020<br>
-The Heat is On: rise in violence as planet warms, <b>Daily Star</b>, January 2020<br>
 <a href='http://www.anthropocenemagazine.org/2020/01/how-climate-change-could-change-way-we-die/' target="_blank">How climate change could change the way we die</a>, <b>Anthropocene</b>, January 2020<br>
 <a href='https://theconversation.com/car-accidents-drownings-violence-hotter-temperatures-will-mean-more-deaths-from-injury-129628' target="_blank">Hotter temperatures will mean more deaths from injury</a>, <b>The Conversation</b>, January 2020<br>
 <a href='https://www.smartcitiesdive.com/news/rising-temperatures-could-increase-injury-deaths-by-2000-a-year-study/570457/' target="_blank">Rising temperatures could increase injury deaths by 2,000 a year: study</a>, <b>Smart Cities Dive</b>, January 2020<br>
 <a href='https://consumer.healthday.com/diseases-and-conditions-information-37/heat-and-sunstroke-health-news-370/climate-change-may-translate-into-more-fatal-injuries-753852.html' target="_blank">Climate Change May Translate Into More Fatal Injuries</a>, <b>HealthDay</b>, January 2020<br>
-<a href='https://www.cnn.com/2020/01/13/health/warm-temperatures-injury-deaths-study/index.html' target="_blank">Warmer temperatures linked to increase in US injury deaths, study says</a>, <b>CNN</b>, January 2020
+<a href='https://www.cnn.com/2020/01/13/health/warm-temperatures-injury-deaths-study/index.html' target="_blank">Warmer temperatures linked to increase in US injury deaths, study says</a>, <b>CNN</b>, January 2020<br>
+The Heat is On: rise in violence as planet warms, <b>Daily Star</b>, January 2020<br>
 
 Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India and many other countries.
 
