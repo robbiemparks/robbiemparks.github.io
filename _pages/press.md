@@ -5,6 +5,9 @@ permalink: /press/
 author_profile: true
 ---
 
+<b>Green New Deal</b>
+<a href='https://bit.ly/2uiY1Qz', target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, Bernie Sanders, 2020</b>
+
 <b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine, 2020</b>
 
 <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
