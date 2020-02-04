@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 Anomalously warm temperatures are associated with increased injury deaths
+
+
 Climate crisis likely to increase violent deaths of young people - report, The Guardian January 2020
 Injuries and Deaths Could Rise with Climate Change in the U.S., a New Study Finds, TIME January 2020
 Climate-Change Related Injuries Will Kill Thousands in the US, New Scientist, January 2020
