@@ -5,7 +5,8 @@ permalink: /press/
 author_profile: true
 ---
 
-Anomalously warm temperatures are associated with increased injury deaths
+<head>Anomalously warm temperatures are associated with increased injury deaths<\head>
+
 
 Climate crisis likely to increase violent deaths of young people - report, The Guardian January 2020
 
