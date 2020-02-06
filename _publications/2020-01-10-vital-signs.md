@@ -8,7 +8,7 @@ venue: 'The Brenthurst Foundation'
 paperurl: 'http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/'
 citation: 'Parks RM, McLaren M, Rivett U, Thomson M (2020) Health security in South Africa: Chapter 4: Climate, drought, food security and health. The Brenthurst Foundation.'
 ---
-[Download paper here](http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/)
+[Download book here](http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/)
 
 In October 2017, the mayor of Cape Town predicted that the city, with
 over four million citizens, would run out of water by the following March.
