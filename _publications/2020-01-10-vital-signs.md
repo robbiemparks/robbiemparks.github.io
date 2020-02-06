@@ -5,7 +5,7 @@ permalink: /publication/vital-signs
 excerpt:
 date: 2020-01-10
 venue: 'Vital Signs - Health security in South Africa. The Brenthurst Foundation'
-paperurl: 'http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/'
+paperurl:
 citation: 'Parks RM, McLaren M, Rivett U, Thomson M (2020) Vital Signs - Health security in South Africa: Chapter 4: Climate, drought, food security and health. The Brenthurst Foundation.'
 ---
 [Download book here](http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/)
