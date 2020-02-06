@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vital-signs
 excerpt: 'In October 2017, the mayor of Cape Town predicted that the city, with over four million citizens, would run out of water by the following March. The event was termed ‘Day Zero’, the day the city’s taps would be shut off. The idea that Cape Town could be the first major advanced city in history to run out of water captured the world’s attention.'
 date: 2020-01-10
-venue: 'The Brenthurst Foundation'
+venue: 'Vital Signs - Health security in South Africa'
 paperurl: 'http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-south-africa/'
 citation: 'Parks RM, McLaren M, Rivett U, Thomson M (2020) Health security in South Africa: Chapter 4: Climate, drought, food security and health. The Brenthurst Foundation.'
 ---
