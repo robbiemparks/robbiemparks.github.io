@@ -2,7 +2,7 @@
 title: "Experiences and lessons in managing water from Cape Town"
 collection: publications
 permalink: /publication/Experiences-and-lessons-in-managing-water-from-cape-town
-excerpt: 'The briefing paper provides an overview of the conditions that led to the drought in Cape Town, the social and economic impacts of the crisis, and the interventions that were implemented to respond to it.'
+excerpt:
 date: 2019-03-19
 venue: 'Grantham Briefing Papers'
 citation: 'Parks RM, Mclaren M, Toumi R, Rivett U, 2019, Experiences and lessons in managing water from Cape Town, <i>Grantham Briefing Papers</i>'
