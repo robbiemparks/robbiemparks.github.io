@@ -28,6 +28,6 @@ Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domen
 
 <a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>
 
-<b>Reddit Ask Me Anything (AMA) interview, 2018<\b>
+<b>Reddit Ask Me Anything (AMA) interview, 2018
   
 <a href='https://www.reddit.com/r/IAmA/comments/9z4703/i_am_robbie_parks_a_phd_student_looking_into_how/' target="_blank">I am Robbie Parks, a PhD student looking into how climate change and extreme weather may be influencing the trends in mortality rates from year to year. AMA.</a>
