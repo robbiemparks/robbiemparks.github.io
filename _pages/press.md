@@ -26,7 +26,7 @@ Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domen
 
 <b>Green New Deal, 2020</b>
 
-<a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>
+<a href='https://bit.ly/2uiY1Qz' target="_blank">Bernie Sanders: More than 55 scientists sign letter supporting the Green New Deal</a>
 
 <b>Reddit Ask Me Anything (AMA) interview, 2018
   
