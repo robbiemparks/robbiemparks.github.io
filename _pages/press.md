@@ -24,9 +24,9 @@ Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India
 
 Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira,Katherine Hayhoe, Marshall Burke and hundreds of others.
 
-<b>Green New Deal</b>
+<b>Green New Deal, 2020</b>
 
-<a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>, 2020
+<a href='https://bit.ly/2uiY1Qz' target="_blank">More than 55 scientists sign letter supporting the Green New Deal</a>, <b>Bernie Sanders</b>
 
 <b>Reddit Ask Me Anything (AMA) interview, 2018<\b>
   
