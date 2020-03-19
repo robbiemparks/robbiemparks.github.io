@@ -24,6 +24,10 @@ Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India
 
 Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira,Katherine Hayhoe, Marshall Burke and hundreds of others.
 
+<b>Climate and mental health</b>
+
+<a href='https://www.thecompassionateconservationist.com/post/climate-on-the-brain' target="_blank">Climate on the brain: climate breakdown and mental health</a>, <b>The Compassionate Conversationist</b>, March 2020<br>
+
 <b>Green New Deal, 2020</b>
 
 <a href='https://bit.ly/2uiY1Qz' target="_blank">Bernie Sanders: More than 55 scientists sign letter supporting the Green New Deal</a>
