@@ -22,7 +22,7 @@ The Heat is On: rise in violence as planet warms, <b>Daily Star</b>, January 202
 
 Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India and many other countries.
 
-Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira,Katherine Hayhoe, Marshall Burke and hundreds of others.
+Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira, Katherine Hayhoe, Marshall Burke and hundreds of others.
 
 <b>Climate and mental health</b>
 
