@@ -27,8 +27,8 @@ main:
   - title: "CV"
     url: /cv/
     
-#   - title: "Music"
-#     url: /music/
+  - title: "Music"
+    url: /music/
     
 #   - title: "Photography"
 #     url: /photgraphy/
