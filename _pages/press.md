@@ -36,7 +36,7 @@ Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domen
   
 <a href='https://www.reddit.com/r/IAmA/comments/9z4703/i_am_robbie_parks_a_phd_student_looking_into_how/' target="_blank">I am Robbie Parks, a PhD student looking into how climate change and extreme weather may be influencing the trends in mortality rates from year to year. AMA.</a>
 
-<b>VICE Magazine print issue, 2015
+<b>VICE Magazine print issue
   
-<a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>
+<a href='https://www.vice.com/en_uk/article/5gjgj3/pet-hates-v22n5' target="_blank">Pet Hates: Is your cat costing the Earth?</a>, June 2015<br>
 
