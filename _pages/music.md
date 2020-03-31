@@ -14,7 +14,7 @@ author_profile: true
 <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
 <a href='https://soundcloud.com/rmiparks/sets/isolation' target="_blank">Isolation</a>, 2020<br>
 <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on' target="_blank">GREEN SPACE</a>, 2019<br>
-<a href='https://soundcloud.com/rmiparks/sets/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication<br></a>, 2018<br>
+<a href='https://soundcloud.com/rmiparks/sets/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication</a>, 2018<br>
 
 
 
