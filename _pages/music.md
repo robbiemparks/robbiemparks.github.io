@@ -16,3 +16,4 @@ author_profile: true
 <b>Glitches</b>
 
 <a href='https://www.glitchesmusic.co.uk/' target="_blank">Official website</a><br>
+<a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
