@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <b>COVID-19/Coronavirus and air pollution, 2020</b>
+
 <a href='https://www.accuweather.com/en/videos/air-pollution-plummeting-worldwide/D6FnwOv3' target="_blank">Air pollution plummeting worldwide</a>, <b>Accuweather</b>, April 2020<br>
 
 
