@@ -5,6 +5,10 @@ permalink: /press/
 author_profile: true
 ---
 
+<bCOVID-19 and air pollution, 2020</b>
+<a href='https://www.accuweather.com/en/videos/air-pollution-plummeting-worldwide/D6FnwOv3' target="_blank">Air pollution plummeting worldwide</a>, <b>Accuweather</b>, April 2020<br>
+
+
 <b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine, 2020</b>
 
 <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
@@ -24,7 +28,7 @@ Coverage in United States, United Kingdom, Colombia, France, Spain, Italy, India
 
 Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domenici, Andrew Revkin, Maria Neira, Katherine Hayhoe, Marshall Burke and hundreds of others.
 
-<b>Climate and mental health</b>
+<b>Climate and mental health, 2020</b>
 
 <a href='https://www.thecompassionateconservationist.com/post/climate-on-the-brain' target="_blank">Climate on the brain: climate breakdown and mental health</a>, <b>The Compassionate Conversationist</b>, March 2020<br>
 
