@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sound"
-permalink: /music/
+permalink: /sound/
 author_profile: true
 ---
 
