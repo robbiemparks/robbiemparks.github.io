@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Music"
+title: "Sound"
 permalink: /music/
 author_profile: true
 ---
