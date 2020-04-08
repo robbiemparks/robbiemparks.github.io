@@ -15,7 +15,12 @@ author_profile: true
 
 <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on' target="_blank">GREEN</a>
 <a href='https://soundcloud.com/rmiparks/green-space-immersive-installation' target="_blank">  SPACE</a>, 2019<br>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1023306304&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 <a href='https://soundcloud.com/rmiparks/sets/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication</a>, 2018<br>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/637605702&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <b>Glitches</b>
 
