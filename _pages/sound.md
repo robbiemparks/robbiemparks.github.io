@@ -12,6 +12,8 @@ author_profile: true
 
 <a href='https://soundcloud.com/rmiparks/sets/isolation' target="_blank">Isolation</a>, 2020<br>
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2781978344/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://robbiemparks.bandcamp.com/album/isolation">Isolation by Robbie M Parks</a></iframe>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1018954972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <a href='https://www.greatexhibitionroadfestival.co.uk/event/green-space/?backto=whats-on' target="_blank">GREEN</a>
@@ -20,6 +22,8 @@ author_profile: true
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/634088112&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <a href='https://soundcloud.com/rmiparks/sets/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication</a>, 2018<br>
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2003895136/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://robbiemparks.bandcamp.com/album/silence-is-to-noise-as-quiet-is-to-communication">Silence is to noise as quiet is to communication by Robbie M Parks</a></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/637605702&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
