@@ -10,7 +10,7 @@ author_profile: true
 <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
 <a href='https://soundcloud.com/rmiparks' target="_blank">SoundCloud<br></a>
 
-<a href='https://soundcloud.com/rmiparks/sets/isolation' target="_blank">Isolation</a>, 2020<br>
+<a href='https://robbiemparks.bandcamp.com/album/isolation' target="_blank">Isolation</a>, 2020<br>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2781978344/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://robbiemparks.bandcamp.com/album/isolation">Isolation by Robbie M Parks</a></iframe>
 
