@@ -27,6 +27,3 @@ author_profile: true
 
 <a href='https://www.glitchesmusic.co.uk/' target="_blank">Website</a><br>
 <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=nGwZ8kWqRE2PuXfbA_LjRQ' target="_blank">Spotify</a><br>
-
-<iframe src="https://open.spotify.com/embed/album/5SXfpWymqjT7zBiwZOqUsd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
