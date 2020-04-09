@@ -19,7 +19,7 @@ author_profile: true
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2788242479/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://robbiemparks.bandcamp.com/album/green-space">GREEN SPACE by Robbie M Parks</a></iframe>
 
-<a href='https://soundcloud.com/rmiparks/sets/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication</a>, 2018<br>
+<a href='https://robbiemparks.bandcamp.com/album/silence-is-to-noise-as-quiet-is-to-communication' target="_blank">Silence is to noise as quiet is to communication</a>, 2018<br>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2003895136/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://robbiemparks.bandcamp.com/album/silence-is-to-noise-as-quiet-is-to-communication">Silence is to noise as quiet is to communication by Robbie M Parks</a></iframe>
 
