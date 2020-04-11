@@ -5,10 +5,10 @@ permalink: /press/
 author_profile: true
 ---
 
-<a href='https://blogs.ei.columbia.edu/2020/04/11/pod-planet-ep-5-look/' target="_blank">Pod of the Planet: Ep.5 Look After Yourself</a>, <b>Pod of the Planet</b>, April 2020<br>
 
 <b>COVID-19/Coronavirus and air pollution, 2020</b>
 
+<a href='https://blogs.ei.columbia.edu/2020/04/11/pod-planet-ep-5-look/' target="_blank">Pod of the Planet: Ep.5 Look After Yourself</a>, <b>Pod of the Planet</b>, April 2020<br>
 <a href='https://www.accuweather.com/en/videos/air-pollution-plummeting-worldwide/D6FnwOv3' target="_blank">Air pollution plummeting worldwide</a>, <b>Accuweather</b>, April 2020<br>
 
 
