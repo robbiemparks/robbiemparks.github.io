@@ -14,6 +14,7 @@ author_profile: true
 
 <b>Anomalously warm temperatures are associated with increased injury deaths, Nature Medicine, 2020</b>
 
+<a href='https://www.publichealthpost.org/research/climate-changes-temps-and-deaths/' target="_blank">Climate Changes Temps and Deaths</a>, <b>Public Health Post</b>, April 2020<br>
 <a href='https://www.theguardian.com/environment/2020/jan/13/climate-crisis-likely-to-increase-violent-deaths-of-young-people-report' target="_blank">Climate crisis likely to increase violent deaths of young people - report</a>, <b>The Guardian</b>, January 2020<br>
 <a href='https://time.com/5764673/injuries-deaths-climate-change/' target="_blank">Injuries and Deaths Could Rise with Climate Change in the U.S., a New Study Finds</a>, <b>TIME</b>, January 2020<br>
 <a href='https://www.newscientist.com/article/2229627-climate-change-related-injuries-will-kill-thousands-in-the-us/' target="_blank">Climate-Change Related Injuries Will Kill Thousands in the US</a>, <b>New Scientist</b>, January 2020<br>
