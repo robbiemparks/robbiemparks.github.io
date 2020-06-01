@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<iframe width="100%" height="1000" src="https://robbiemparks.github.io/files/CV_Robbie_M_Parks_April_2020.pdf"></iframe>
+<iframe width="100%" height="1000" src="https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en"></iframe>
 
 
 {% if author.googlescholar %}
