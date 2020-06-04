@@ -8,7 +8,7 @@ author_profile: true
 
 <b>COVID-19/Coronavirus and air pollution, 2020</b>
 
-<a href='https://twitter.com/rmiparks/status/1268082491530850305' target="_blank">Mention of results from England and Wales COVID-19 paper in UK parliament </a>, <b>UK Parliament</b>, June 2020<br>
+<a href='https://twitter.com/rmiparks/status/1268082491530850305' target="_blank">Mention of results from England and Wales COVID-19 paper in UK parliament</a>, <b>UK Parliament</b>, June 2020<br>
 <a href='https://knowscience.org/blog/sounds-as-aural-vignettes-to-help-keep-me-together/' target="_blank">Aural Vignettes to Help Keep Me Together</a>, <b>KnowScience </b>, April 2020<br>
 <a href='https://blogs.ei.columbia.edu/2020/04/11/pod-planet-ep-5-look/' target="_blank">Pod of the Planet: Ep.5 Look After Yourself</a>, <b>Pod of the Planet</b>, April 2020<br>
 <a href='https://www.accuweather.com/en/videos/air-pollution-plummeting-worldwide/D6FnwOv3' target="_blank">Air pollution plummeting worldwide</a>, <b>Accuweather</b>, April 2020<br>
