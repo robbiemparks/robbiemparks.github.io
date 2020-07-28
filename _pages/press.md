@@ -5,6 +5,9 @@ permalink: /press/
 author_profile: true
 ---
 
+<b>Rising temperatures and heat deaths, 2020</b>
+
+<a href='https://publicintegrity.org/environment/hidden-epidemics/heat-deaths-climate-change-arizona' target="_blank">Climate casualties rising with temperatures</a>, <b>The Center for Public Integrity</b>, June 2020<br>
 
 <b>COVID-19/Coronavirus and air pollution, 2020</b>
 
