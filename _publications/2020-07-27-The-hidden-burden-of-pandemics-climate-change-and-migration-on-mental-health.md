@@ -5,7 +5,7 @@ permalink: /publication/The-hidden-burden-of-pandemics-climate-change-and-migrat
 excerpt:
 date: 2020-07-27
 venue: 'UN International Organization for Migration (IOM) thematic series on health'
-paperurl:
+paperurl: 'https://environmentalmigration.iom.int/blogs/hidden-burden-pandemics-climate-change-and-migration-mental-health'
 citation: 'Parks RM*, Thalheimer L*. (2020). The hidden burden of pandemics, climate change and migration on mental health,https://environmentalmigration.iom.int/covid-19-pandemic-migration-and-environmentUN International Organization for Migration (IOM) thematic series on health'
 
 ---
