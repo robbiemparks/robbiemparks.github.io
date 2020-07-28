@@ -1,12 +1,14 @@
 ---
 title: "Age- and sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics"
 collection: publications
-permalink: /publication/The-hidden-burden-of-pandemics-climate-change-and-migration-on-mental-health
+permalink: /publication/Age-and-sex-specific-total-mortality-impacts-of-the-early-weeks-of-the-Covid-19-pandemic-in-England-and-Wales
 excerpt:
 date: 2020-05-25
-venue: 'UN International Organization for Migration (IOM) thematic series on health'
-paperurl:
-citation: 'Parks RM*, Thalheimer L*. (2020). The hidden burden of pandemics, climate change and migration on mental health,https://environmentalmigration.iom.int/covid-19-pandemic-migration-and-environmentUN International Organization for Migration (IOM) thematic series on health'
+venue: 'medrXiv (pre-print)'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2020.05.20.20107680v1'
+citation: 'Age- and sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics
+Vasilis Kontis, James E Bennett, Robbie M Parks, Theo Rashid, Jonathan Pearson-Stuttard, Perviz Asaria, Michel Guillot, Marta Blangiardo, Majid Ezzati
+medRxiv 2020.05.20.20107680; doi: https://doi.org/10.1101/2020.05.20.20107680'
 
 ---
 [Download paper here](https://www.medrxiv.org/content/10.1101/2020.05.20.20107680v1)
