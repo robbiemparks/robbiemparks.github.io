@@ -5,10 +5,6 @@ permalink: /press/
 author_profile: true
 ---
 
-<b>Rising temperatures and heat deaths, 2020</b>
-
-<a href='https://publicintegrity.org/environment/hidden-epidemics/heat-deaths-climate-change-arizona' target="_blank">Climate casualties rising with temperatures</a>, <b>The Center for Public Integrity</b>, June 2020<br>
-
 <b>COVID-19/Coronavirus and air pollution, 2020</b>
 
 <a href='https://twitter.com/rmiparks/status/1268082491530850305' target="_blank">Mention of results from England and Wales COVID-19 paper in UK parliament</a>, <b>UK Parliament</b>, June 2020<br>
@@ -44,6 +40,10 @@ Paper retweeted or liked by David Wallace-Wells, Greta Thunberg, Francesca Domen
 <b>Green New Deal, 2020</b>
 
 <a href='https://bit.ly/2uiY1Qz' target="_blank">Bernie Sanders: More than 55 scientists sign letter supporting the Green New Deal</a>
+
+<b>Rising temperatures and heat deaths, 2020</b>
+
+<a href='https://publicintegrity.org/environment/hidden-epidemics/heat-deaths-climate-change-arizona' target="_blank">Climate casualties rising with temperatures</a>, <b>The Center for Public Integrity</b>, June 2020<br>
 
 <b>Reddit Ask Me Anything (AMA) interview, 2018</b>
   
