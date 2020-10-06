@@ -11,7 +11,7 @@ Kontis V, Bennett JE, Rashid T, <b>Parks RM</b>, Pearson-Stuttard J, Guillot M, 
 
 deSouza P, Braun D, <b>Parks RM</b>, Schwartz J, Dominici F, Kioumourtzoglou MA. (2020). Nationwide Study of Short-Term Exposure to Fine Particulate Matter and Cardiovascular Hospitalizations among Medicaid Enrollees, <b>Epidemiology</b> (<a href='https://doi.org/10.1097/EDE.0000000000001265' target="_blank">link</a>)
 
-<b>Parks RM</b>, Thalheimer L. (2020). The hidden burden of pandemics, climate change and migration on mental health, UN International Organization for Migration (IOM) thematic series on health
+<b>Parks RM</b>, Thalheimer L. (2020). The hidden burden of pandemics, climate change and migration on mental health, UN International Organization for Migration (IOM) thematic series on health (<a href='https://environmentalmigration.iom.int/blogs/hidden-burden-pandemics-climate-change-and-migration-mental-health' target="_blank">link</a>)
 
 <b>2019</b>
 
