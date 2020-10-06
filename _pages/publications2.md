@@ -34,3 +34,4 @@ Bennett JE, Tamura-Wicks H, <b>Parks RM</b>, Burnett RT, Pope CA III, Bechle MJ,
  
 <b>2016</b>
 
+<b>Parks RM</b>. (2016). Weather, climate and health, <b>Weather</b> (<a href='https://doi.org/10.1002/wea.2752' target="_blank">link</a>)
