@@ -30,7 +30,7 @@ Bennett JE, Tamura-Wicks H, <b>Parks RM</b>, Burnett RT, Pope CA III, Bechle MJ,
 
 <b>2018</b>
 
-<b>Parks RM</b>, Bennett JE, Foreman KJ, Toumi R, Ezzati M. (2018). National and regional seasonal dynamics of all-cause and cause-specific mortality in the USA from 1980 to 2016, eLife (<a href='https://doi.org/10.7554/eLife.35500' target="_blank">link</a>)
+<b>Parks RM</b>, Bennett JE, Foreman KJ, Toumi R, Ezzati M. (2018). National and regional seasonal dynamics of all-cause and cause-specific mortality in the USA from 1980 to 2016, <b>eLife</b> (<a href='https://doi.org/10.7554/eLife.35500' target="_blank">link</a>)
  
 <b>2016</b>
 
