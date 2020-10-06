@@ -7,7 +7,7 @@ author_profile: true
 
 <b>2020</b>
 
-Magnitude, demographics and dynamics of the impact of the first phase of the Covid-19 pandemic on all-cause mortality in 17 industrialised countries Vasilis Kontis, James E Bennett, Theo Rashid, Robbie M Parks, Jonathan Pearson-Stuttard, Michel Guillot, Perviz Asaria, Bin Zhou, Marco Battaglini, Gianni Corsetti, Martin McKee, Mariachiara Di Cesare, Colin D Mathers, Majid Ezzati doi: <a href='https://doi.org/10.1101/2020.07.26.20161570 https://www.medrxiv.org/content/10.1101/2020.07.26.20161570v1' target="_blank">https://doi.org/10.1101/2020.07.26.20161570 https://www.medrxiv.org/content/10.1101/2020.07.26.20161570v1</a>
+Magnitude, demographics and dynamics of the impact of the first phase of the Covid-19 pandemic on all-cause mortality in 17 industrialised countries Vasilis Kontis, James E Bennett, Theo Rashid, Robbie M Parks, Jonathan Pearson-Stuttard, Michel Guillot, Perviz Asaria, Bin Zhou, Marco Battaglini, Gianni Corsetti, Martin McKee, Mariachiara Di Cesare, Colin D Mathers, Majid Ezzati doi: <a href='https://www.medrxiv.org/content/10.1101/2020.07.26.20161570v1' target="_blank">https://www.medrxiv.org/content/10.1101/2020.07.26.20161570v1</a>
 
 <b>2019</b>
 
