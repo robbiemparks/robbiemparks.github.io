@@ -23,6 +23,9 @@ associated with increased injury deaths, <b>Nature Medicine</b> (<a href='https:
 
 <b>2019</b>
 
+Bennett JE, Tamura-Wicks H, <b>Parks RM</b>, Burnett RT, Pope CA III, Bechle MJ, Marshall JD, Danaei G, Ezzati M.
+(2019). National and county life expectancy loss associated with particulate matter pollution in the USA: a spatiotemporal analysis, <b>PLOS Medicine</b> (<a href='https://doi.org/10.1371/journal.pmed.1002856' target="_blank">link</a>)
+
 <b>2018</b>
 
 <b>2016</b>
