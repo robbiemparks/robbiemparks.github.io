@@ -16,7 +16,7 @@ deSouza P, Braun D, <b>Parks RM</b>, Schwartz J, Dominici F, Kioumourtzoglou MA.
 Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, Guillot M, Blangiardo M, Ezzati M. (2020). Ageand sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics, <b>MedrXiv</b> (<a href='https://www.medrxiv.org/content/10.1101/2020.05.20.20107680v1' target="_blank">link</a>)
 
 <b>Parks RM</b>, McLaren M, Rivett U, Thomson M. (2020). Vital signs: health security in South Africa. Chapter 5:
-climate, drought, food and health, Brenthurst Foundation, Oppenheimer & Sons (<a href='http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-southafrica/' target="_blank">link</a>)
+climate, drought, food and health, <b>Brenthurst Foundation, Oppenheimer & Sons</b> (<a href='http://www.thebrenthurstfoundation.org/article/vital-signs-health-security-in-southafrica/' target="_blank">link</a>)
 
 <b>Parks RM</b>, Bennett JE, Tamura-Wicks H, Kontis V, Toumi R, Ezzati M. (2020). Anomalously warm temperatures are
 associated with increased injury deaths, <b>Nature Medicine</b> (<a href='https://www.nature.com/articles/s41591-019-0721-y' target="_blank">link</a>)
