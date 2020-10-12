@@ -5,6 +5,8 @@ permalink: /publications2/
 author_profile: true
 ---
 
+Google Scholar page <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">here</a>
+
 <b>2020</b>
 
 Kontis V, Bennett JE, Rashid T, <b>Parks RM</b>, Pearson-Stuttard J, Guillot M, Asaria P, Zhou B, Battaglini M, Corsetti G, McKee M, Di Cesare M, Mathers C, Ezzati M. (In press). Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, <b>Nature Medicine</b>
