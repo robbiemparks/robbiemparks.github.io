@@ -14,7 +14,7 @@ author_profile: true
 <a href='https://www.politico.eu/article/spain-england-and-wales-top-the-list-for-coronavirus-deaths-in-new-study/' target="_blank">Spain, England and Wales top the list for coronavirus deaths in new study</a>, <b>Politico</b>, October 2020<br>
 <a href='https://www.dailymail.co.uk/news/article-8838559/England-Wales-saw-SECOND-worst-death-toll-Europe-wave-Covid-19.html' target="_blank">England and Wales had SECOND worst excess death toll in Europe during first wave of Covid-19 with a 37% rise in all-cause fatalities behind only Spain on 38%</a>, <b>Daily Mail</b>, October 2020<br>
 <a href='https://www.ined.fr/fr/tout-savoir-population/memos-demo/focus/covid-19-la-france-au-8eme-rang-parmi-21-pays-industrialises-en-termes-de-bilan-de-mortalite/' target="_blank">COVID-19 : la France au 8ème rang parmi 21 pays industrialisés en termes de bilan de mortalité</a>, <b>INED</b>, October 2020<br>
-<a href='https://www.agenciasinc.es/Noticias/Espana-el-pais-europeo-con-mayor-exceso-de-muertes-durante-la-primera-ola-de-la-pandemia' target="_blank">España, el país europeo con mayor exceso de muertes durante la primera ola de la pandemia</a>, <b>INED</b>, October 2020<br>
+<a href='https://www.agenciasinc.es/Noticias/Espana-el-pais-europeo-con-mayor-exceso-de-muertes-durante-la-primera-ola-de-la-pandemia' target="_blank">España, el país europeo con mayor exceso de muertes durante la primera ola de la pandemia</a>, <b>Agencia Sinc</b>, October 2020<br>
 
 <b>COVID-19/Coronavirus, temperature, air pollution, green space and racism 2020</b>
 
