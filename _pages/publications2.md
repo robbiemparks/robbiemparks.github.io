@@ -7,6 +7,10 @@ author_profile: true
 
 Google Scholar page <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">here</a>
 
+<b>2021</b>
+
+Papers in press and under review/revision. Watch this space!
+
 <b>2020</b>
 
 Nethery RC, Katz-Christy N, Kioumourtzoglou MA, <b>Parks RM</b>, Schumacher A, Anderson GB. (2020). Integrated causal-predictive machine learning models for tropical cyclone epidemiology, <b>arXiv (preprint)</b> (<a href='https://arxiv.org/abs/2010.11330' target="_blank">link</a>)
