@@ -7,6 +7,8 @@ author_profile: true
 
 <b>Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, Nature Medicine, 2020</b>
 
+<a href='https://uk.reuters.com/article/uk-health-coronavirus-deaths-excess/uk-italy-spain-had-high-excess-deaths-in-first-pandemic-wave-study-finds-idUKKBN26Z151' target="_blank">UK, Italy, Spain had high 'excess deaths' in first pandemic wave, study finds</a>, <b>Reuters</b>, October 2020<br>
+<a href='https://apnews.com/article/virus-outbreak-pandemics-public-health-disease-outbreaks-europe-acf6b710cab51381a05a4e1b5fc9c931' target="_blank">Study: Health systems, govt responses linked to virus tolls</a>, <b>Associated Press</b>, October 2020<br>
 <a href='https://www.pbs.org/newshour/health/study-finds-health-systems-government-responses-linked-to-virus-tolls' target="_blank">Study finds health systems, government responses linked to virus tolls</a>, <b>PBS</b>, October 2020<br>
 <a href='https://www.washingtonpost.com/world/europe/study-health-systems-govt-responses-linked-to-virus-tolls/2020/10/14/4c3b2d46-0e19-11eb-b404-8d1e675ec701_story.html' target="_blank">Study: Health systems, govt responses linked to virus tolls</a>, <b>Washington Post</b>, October 2020<br>
 <a href='https://www.theguardian.com/world/2020/oct/14/covid-19-england-and-wales-among-highest-per-capita-death-tolls?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1602667525' target="_blank">Covid-19: England and Wales among highest per capita death tolls</a>, <b>The Guardian</b>, October 2020<br>
