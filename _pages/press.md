@@ -7,6 +7,7 @@ author_profile: true
 
 <b>Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, Nature Medicine, 2020</b>
 
+<a href='https://www.pbs.org/newshour/health/study-finds-health-systems-government-responses-linked-to-virus-tolls' target="_blank">Study finds health systems, government responses linked to virus tolls</a>, <b>PBS</b>, October 2020<br>
 <a href='https://www.theguardian.com/world/2020/oct/14/covid-19-england-and-wales-among-highest-per-capita-death-tolls?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1602667525' target="_blank">Covid-19: England and Wales among highest per capita death tolls</a>, <b>The Guardian</b>, October 2020<br>
 <a href='https://www.newscientist.com/article/2256986-england-wales-had-most-excess-deaths-in-europes-covid-19-first-wave/' target="_blank">England & Wales had most excess deaths in Europe’s covid-19 first wave</a>, <b>New Scientist</b>, October 2020<br>
 <a href='https://www.thetimes.co.uk/edition/news/men-and-women-equally-at-risk-from-pandemic-study-finds-28rnppfjj?utm_medium=Social&utm_source=Twitter#Echobox=1602673857' target="_blank">Men and women equally at risk from coronavirus, study finds</a>, <b>The Times</b>, October 2020<br>
