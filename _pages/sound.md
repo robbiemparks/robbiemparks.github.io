@@ -5,6 +5,8 @@ permalink: /sound/
 author_profile: true
 ---
 
+I also really like writing and playing music.
+
 <b>Robbie M Parks</b>
 
 <a href='https://robbiemparks.bandcamp.com/' target="_blank">Bandcamp<br></a>
