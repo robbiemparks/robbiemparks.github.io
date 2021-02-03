@@ -22,4 +22,4 @@ I very much enjoy communicating my work to the public, and have been involved in
 
 I have also just received seed funding as PI from the highly competitive <a href='https://www.earth.columbia.edu/sitefiles/file/Research/Earth_Frontiers_Call_for_Proposals_2019.pdf' target="_blank">Earth Frontiers</a> 2019 call, where I submitted a grant application along with world-renowned scientists at Columbia for projects covering 2020-2021.
 
-Oh, and I'm a musician, with my band <a href='https://www.glitchesmusic.co.uk/' target="_blank">Glitches</a> and as a <a href='https://soundcloud.com/rmiparks' target="_blank">sound artist</a>.
+Oh, and I'm a musician, with my band <a href='https://open.spotify.com/artist/7EWl2Eh2mIAIl1k9YzXGIs?si=KDj6Ny_lTsKGmJjIYdQ1Ag' target="_blank">Glitches</a> and as a <a href='https://soundcloud.com/rmiparks' target="_blank">sound artist</a>.
