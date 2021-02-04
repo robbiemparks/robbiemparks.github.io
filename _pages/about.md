@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+![image](https://github.com/robbiemparks/robbiemparks.github.io/blob/master/files/banner.jpg)
+Art by Amy Wolfe
+
 I am an environmental epidemiologist. I am currently a <a href='https://www.earth.columbia.edu/articles/view/55' target="_blank">post-doctoral research fellow</a> at the <a href='https://www.earth.columbia.edu/' target="_blank">Earth Institute</a>, Columbia University, mentored by <a href='https://www.mailman.columbia.edu/people/our-faculty/mk3961' target="_blank">Marianthi-Anna Kioumourtzoglou</a> at the Mailman School of Public Health.
 
 I am primarily interested in understanding the impact that climate, weather, and air pollution have on mortality, nutrition and disease outcomes, and how these impacts may be different in sub-groups of a population. I am also interested in developing new (particularly Bayesian) statistical methods, relevant to these concerns. 
