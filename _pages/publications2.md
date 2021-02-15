@@ -21,7 +21,7 @@ Kontis V, Bennett JE, Rashid T, <b>Parks RM</b>, Pearson-Stuttard J, Guillot M, 
 
 <b>Parks RM</b>, Thalheimer L. (2020). The hidden burden of pandemics, climate change and migration on mental health, <b>UN International Organization for Migration (IOM) thematic series on health</b> (<a href='https://environmentalmigration.iom.int/blogs/hidden-burden-pandemics-climate-change-and-migration-mental-health' target="_blank">link</a>)
 
-Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, Guillot M, Blangiardo M, Ezzati M. (2020). Ageand sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics, <b>MedrXiv (preprint)</b> (<a href='https://www.medrxiv.org/content/10.1101/2020.05.20.20107680v1' target="_blank">link</a>)
+Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, Guillot M, Blangiardo M, Ezzati M. (2020). Age and sex-specific total mortality impacts of the early weeks of the Covid-19 pandemic in England and Wales: Application of a Bayesian model ensemble to mortality statistics, <b>MedrXiv (preprint)</b> (<a href='https://www.medrxiv.org/content/10.1101/2020.05.20.20107680v1' target="_blank">link</a>)
 
 <b>Parks RM</b>, McLaren M, Rivett U, Thomson M. (2020). Vital signs: health security in South Africa. Chapter 5:
 climate, drought, food and health, <b>Brenthurst Foundation, Oppenheimer & Sons</b> (<a href='https://www.thebrenthurstfoundation.org/books-publications/vital-signs-health-security-in-south-africa/' target="_blank">link</a>)
