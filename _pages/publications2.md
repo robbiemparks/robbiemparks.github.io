@@ -11,6 +11,8 @@ Google Scholar page <a href='https://scholar.google.ch/citations?user=5aU5eEAAAA
 
 Papers in press and under review/revision. Watch this space!
 
+<b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). Tropical cyclone exposure is associated with increased hospitalization rates in older adults, <b>Nature Communications</b>
+
 deSouza P, Braun D, <b>Parks RM</b>, Schwartz J, Dominici F, Kioumourtzoglou MA. (2021). Nationwide Study of Short-Term Exposure to Fine Particulate Matter and Cardiovascular Hospitalizations among Medicaid Enrollees, <b>Epidemiology</b> (<a href='https://journals.lww.com/epidem/Abstract/2021/01000/Nationwide_Study_of_Short_term_Exposure_to_Fine.2.aspx' target="_blank">link</a>)
 
 <b>2020</b>
