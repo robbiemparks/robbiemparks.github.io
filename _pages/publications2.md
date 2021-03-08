@@ -7,9 +7,9 @@ author_profile: true
 
 Google Scholar page <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">here</a>
 
-<b>2021</b>
-
 Papers in press and under review/revision. Watch this space!
+
+<b>2021</b>
 
 <b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). Tropical cyclone exposure is associated with increased hospitalization rates in older adults, <b>Nature Communications</b>
 
