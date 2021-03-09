@@ -11,7 +11,8 @@ Papers in press and under review/revision. Watch this space!
 
 <b>2021</b>
 
-<b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). Tropical cyclone exposure is associated with increased hospitalization rates in older adults, <b>Nature Communications</b>
+<b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). Tropical cyclone exposure is associated with increased hospitalization rates in older adults, <b>Nature Communications</b>  (<a href='https://www.nature.com/articles/s41467-021-21777-1' target="_blank">link</a>)
+
 
 deSouza P, Braun D, <b>Parks RM</b>, Schwartz J, Dominici F, Kioumourtzoglou MA. (2021). Nationwide Study of Short-Term Exposure to Fine Particulate Matter and Cardiovascular Hospitalizations among Medicaid Enrollees, <b>Epidemiology</b> (<a href='https://journals.lww.com/epidem/Abstract/2021/01000/Nationwide_Study_of_Short_term_Exposure_to_Fine.2.aspx' target="_blank">link</a>)
 
