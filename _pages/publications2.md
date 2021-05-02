@@ -11,6 +11,8 @@ Papers in press and under review/revision. Watch this space!
 
 <b>2021</b>
 
+Elser H, <b>Parks RM</b>, Moghavem N, Kiang MV, Bozinov N, Henderson VW, Rehkopf DH, Casey JA. (2021). <a href='https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003580' target="_blank">Anomalously warm weather and acute care visits in patients with multiple sclerosis: A retrospective study of privately insured individuals in the US</a>, <b>PLLoS Medicine</b>  
+
 <b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). <a href='https://www.nature.com/articles/s41467-021-21777-1' target="_blank">Tropical cyclone exposure is associated with increased hospitalization rates in older adults</a>, <b>Nature Communications</b>  
 
 
@@ -33,7 +35,7 @@ Kontis V, Bennett JE, <b>Parks RM</b>, Rashid T, Pearson-Stuttard J, Asaria P, G
 <b>2019</b>
 
 Bennett JE, Tamura-Wicks H, <b>Parks RM</b>, Burnett RT, Pope CA III, Bechle MJ, Marshall JD, Danaei G, Ezzati M.
-(2019). <a href='https://doi.org/10.1371/journal.pmed.1002856' target="_blank">National and county life expectancy loss associated with particulate matter pollution in the USA: a spatiotemporal analysis</a>, <b>PLOS Medicine</b> 
+(2019). <a href='https://doi.org/10.1371/journal.pmed.1002856' target="_blank">National and county life expectancy loss associated with particulate matter pollution in the USA: a spatiotemporal analysis</a>, <b>PLoS Medicine</b> 
 
 <b>Parks RM</b>, McLaren M, Toumi R, Rivett U. (2019). <a href='https://bit.ly/2Uu9oAh' target="_blank">Experiences and lessons in managing water from Cape Town</a>, <b>Grantham Briefing Papers</b> 
 
