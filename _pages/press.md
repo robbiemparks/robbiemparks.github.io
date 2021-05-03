@@ -5,6 +5,8 @@ permalink: /press/
 author_profile: true
 ---
 
+Lots to be added in an update here. Watch this space!
+
 <b>Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, Nature Medicine, 2020</b>
 
 <a href='https://uk.reuters.com/article/uk-health-coronavirus-deaths-excess/uk-italy-spain-had-high-excess-deaths-in-first-pandemic-wave-study-finds-idUKKBN26Z151' target="_blank">UK, Italy, Spain had high 'excess deaths' in first pandemic wave, study finds</a>, <b>Reuters</b>, October 2020<br>
