@@ -11,6 +11,10 @@ Papers in press and under review/revision. Watch this space!
 
 <b>2021</b>
 
+Kruczkiewicz A, Klopp J, Fisher J, Mason S, McClain S, Sheekh NM, Moss R, <b>Parks RM</b>, Braneon C. (In Press). Compound risks and complex emergencies require new approaches to preparedness, <b>PNAS</b>
+
+Elser H, <b>Parks RM</b>, Moghavem N, Kiang MV, Bozinov N, Henderson VW, Rehkopf DH, Casey JA. (2021). <a href='https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003580' target="_blank">Anomalously warm weather and acute care visits in patients with multiple sclerosis: A retrospective study of privately insured individuals in the US</a>, <b>PLoS Medicine</b>  
+
 Elser H, <b>Parks RM</b>, Moghavem N, Kiang MV, Bozinov N, Henderson VW, Rehkopf DH, Casey JA. (2021). <a href='https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003580' target="_blank">Anomalously warm weather and acute care visits in patients with multiple sclerosis: A retrospective study of privately insured individuals in the US</a>, <b>PLoS Medicine</b>  
 
 <b>Parks RM</b>, Anderson GB, Nethery RC, Navas-Acien A, Dominici F, Kioumourtzoglou MA. (2021). <a href='https://www.nature.com/articles/s41467-021-21777-1' target="_blank">Tropical cyclone exposure is associated with increased hospitalization rates in older adults</a>, <b>Nature Communications</b>  
