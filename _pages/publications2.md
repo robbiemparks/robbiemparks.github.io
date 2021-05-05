@@ -11,7 +11,7 @@ Papers in press and under review/revision. Watch this space!
 
 <b>2021</b>
 
-Kruczkiewicz A, Klopp J, Fisher J, Mason S, McClain S, Sheekh NM, Moss R, <b>Parks RM</b>, Braneon C. (In Press). Compound risks and complex emergencies require new approaches to preparedness, <b>PNAS</b>
+Kruczkiewicz A, Klopp J, Fisher J, Mason S, McClain S, Sheekh NM, Moss R, <b>Parks RM</b>, Braneon C. (2021). <a href='https://www.pnas.org/content/118/19/e2106795118' target="_blank">Compound risks and complex emergencies require new approaches to preparedness</a>, <b>PNAS</b>
 
 Rowland ST, <b>Parks RM</b>, Boehme AK, Goldsmith J, Rush J, Just AC, Kioumourtzoglou MA. (2021). <a href='https://www.sciencedirect.com/science/article/pii/S0013935121005016' target="_blank">The Association Between Ambient Temperature Variability and Myocardial Infarction in a New York-State-Based Case-Crossover Study: an Examination of Different Variability Metrics</a>, <b>Environmental Research</b>  
 
