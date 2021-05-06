@@ -7,6 +7,11 @@ author_profile: true
 
 Lots to be added in an update here. Watch this space!
 
+<b>Tropical cyclone exposure is associated with increased hospitalization rates in older adults, Nature Communications, 2021</b>
+
+<a href='https://factor.niehs.nih.gov/2021/5/papers/dert/index.htm?utm_source=efactor-newsletter&utm_medium=email&utm_campaign=efactor-newsletter-2021-May#a3' target="_blank">Hospitalization following extreme weather, opportunities for resilience</a>, <b>NIEHS papers of the month</b>, May 2021<br>
+<a href='https://news.climate.columbia.edu/2021/03/09/tropical-cyclones-linked-rise-hospitalizations-older-adults/' target="_blank">Tropical Cyclones Linked to Rise in Hospitalizations of Older Adults</a>, <b>State of the Planet</b>, March 2021<br>
+
 <b>Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries, Nature Medicine, 2020</b>
 
 <a href='https://uk.reuters.com/article/uk-health-coronavirus-deaths-excess/uk-italy-spain-had-high-excess-deaths-in-first-pandemic-wave-study-finds-idUKKBN26Z151' target="_blank">UK, Italy, Spain had high 'excess deaths' in first pandemic wave, study finds</a>, <b>Reuters</b>, October 2020<br>
