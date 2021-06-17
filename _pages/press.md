@@ -9,6 +9,7 @@ Lots to be added in an update here. Watch this space!
 
 <b>Tropical cyclone exposure is associated with increased hospitalization rates in older adults, Nature Communications, 2021</b>
 
+<a href='https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2021/6/spotlight/hurricanes_and_tropical_cyclones_associated_with_increased_hospitalization_rates_in_older_adults.cfm' target="_blank">Research Spotlight</a>, <b>NIEHS Global Environmental Health Newsletter</b>, June 2021<br>
 <a href='https://factor.niehs.nih.gov/2021/5/papers/dert/index.htm?utm_source=efactor-newsletter&utm_medium=email&utm_campaign=efactor-newsletter-2021-May#a3' target="_blank">Hospitalization following extreme weather, opportunities for resilience</a>, <b>NIEHS papers of the month</b>, May 2021<br>
 <a href='https://news.climate.columbia.edu/2021/03/09/tropical-cyclones-linked-rise-hospitalizations-older-adults/' target="_blank">Tropical Cyclones Linked to Rise in Hospitalizations of Older Adults</a>, <b>State of the Planet</b>, March 2021<br>
 
